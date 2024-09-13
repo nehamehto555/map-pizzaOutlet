@@ -2,9 +2,9 @@
 This project is a Pizza Outlets Map using Leaflet.js and OpenStreetMap. It displays various pizza outlets on an interactive map, allowing users to view their locations and details, and seamlessly zoom into specific outlets by clicking on the list or map markers.
 
 # Features
-Interactive Map: Displays pizza outlets on a map using OpenStreetMap tiles.
-Custom Markers: Each pizza outlet is marked with a custom pizza icon.
-Fly to Location: Click on any outlet from the list, and the map will zoom to its exact location.
+Interactive Map: Displays pizza outlets on a map using OpenStreetMap tiles.<br>
+Custom Markers: Each pizza outlet is marked with a custom pizza icon.<br>
+Fly to Location: Click on any outlet from the list, and the map will zoom to its exact location.<br>
 Popup Information: Clicking on a map marker or list item shows the outlet's details, including the name, address, and phone number.
 Smooth Map Interaction: Provides a smooth flying effect to the store's location when selected from the list.
 
